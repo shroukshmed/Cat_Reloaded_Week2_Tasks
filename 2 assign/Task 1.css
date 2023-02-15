@@ -1,0 +1,13 @@
+.grid {
+    background-color: #ddd;
+    padding: 20px;
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    grid-template-rows: 50px 1fr;
+  }
+div {
+    background-color: rgb(28, 66, 115);
+}
